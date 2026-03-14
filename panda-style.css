@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#name {
+  margin :50px 50px;
+}
+
+
+#eayhan {
+  justify-content: space-between;
+  display: flex;
+  padding: 50px auto;
+}
+
+#panda {
+  margin: 0px 50px 100px 50px;
+  background-color: #FEEAE9;
+}
+#prodack {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  padding: 50px;
+}
+
+#prodack img {
+  
+}
